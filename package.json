@@ -1,0 +1,19 @@
+{
+  "name": "mkchangelog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mkchangelog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "mkchangelog": "mkchangelog.js"
+  },
+  "dependencies": {
+    "diff": "^1.4.0",
+    "fs-extra": "^0.22.1",
+    "lodash": "^3.10.0"
+  }
+}
